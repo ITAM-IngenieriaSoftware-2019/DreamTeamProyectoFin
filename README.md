@@ -39,22 +39,22 @@
    3. Requerimientos de fiabilidad
 
    # 1. Introducción
-   ## 1.1 Propósito Convención.
-    El propósito de este documento es proporcionar una descripción detallada de los requisitos para un sistema de delivery para los alumnos del ITAM, también se explicarán las limitaciones del sistema y su interfaz.
-
+      ## 1.1 Propósito
+      El propósito de este documento es proporcionar una descripción detallada de los requisitos para una applicación que funciona como sistema de delivery para los alumnos del ITAM llamada RappITAM, también se explicarán las limitaciones del sistema y su interfaz.
    
       ## 1.2 Audiencia
-      Alumnos y repartidores(tienen que ser alumnos debido a que deben entrar a la escuela y a los salones)
+      La audiencia de este documento son los desarrolladores del proyecto (equipo DreamTeam), la supervisora del proyecto (Paulina Bustos) y posiblemente los usuarios finales. Los usuarios finales incluyen alumnos del ITAM, los cuales también pueden ser repartidores. Se recomienda al lector leer el documento en orden y, dependiendo del tipo de audiencia, se recomienda al usuario enfocarse en las secciones pertinentes al uso que dará el lector a la aplicación.
 
       ## 1.3 Alcance del producto
-      El sistema RappITAM es un software para que alumnos del ITAM puedan realizar pedidos a los  diferentes restaurantes, cafeterias y farmacias al rededor de la escuela, esto con la finalidad de optimizar sus horas de estudio sin descuidar su alimentación o salud. 
-      Los alumnos podrán realizar pedidos de 3 categorias, restaurantes, cafeterias y farmacias.
+      El sistema RappITAM es un software para que alumnos del ITAM puedan realizar pedidos a los  diferentes restaurantes, cafeterias y farmacias alrededor de la escuela, esto con la finalidad de optimizar sus horas de estudio sin descuidar su alimentación o salud. 
+      Los alumnos podrán realizar pedidos de 3 categorias: restaurantes, cafeterias y farmacias. Además, la aplicación tiene una sección de "Favoritos" en donde los alumnos guardan sus restaurantes/tiendas favoritas para pedir de las mismas más rápidamente. La aplicación también tiene la sección "Busquedas recientes" en donde se mostrarán los últimos restaurantes/tiendas que buscó el alumno.
       
    
    ## 1.4 Referencias
 
 
-   # 2. Descripción  
+   # 2. Descripción General
+   
    ## 2.1 Perspectiva del producto
    
 
