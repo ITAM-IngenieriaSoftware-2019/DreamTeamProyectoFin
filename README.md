@@ -56,11 +56,20 @@
    # 2. Descripción General
    
    ## 2.1 Perspectiva del producto
-   
-
+   Esta aplicación forma parte de un proyecto de la materia Ingeniería de Software. Esta aplicación es un nuevo producto que cumple una funcionalidad similar a la de otras aplicaciones como Rappi, UberEats, etc. pero con la diferencia de que esta aplicación es únicamente para alumnos del ITAM, los productos pueden ser entregados cerca del ITAM y las tiendas que surten son las cercanas al ITAM.
  
    ## 2.2 Funciones del producto
-   
+   Las funcionalidades principales del producto son las siguientes:
+   - Búsqueda
+   * En esta sección hay una barra de texto en donde el alumno escribe el nombre del establecimiento o el tipo de productos que busca (desayunos, vegana, medicamentos, por ejemplo) y al hacer la búsqueda, aparece una lista con los establecimientos.
+   * Otra forma de buscar, es buscar por Restaurantes o por Tiendas. Al apretar el botón "Restaurantes", aparecerá en la aplicación una lista de Restaurantes, ordenada por popularidad. Análogamente, aparecerán tiendas al apretar el botón "Otras tiendas".
+   - Favoritos
+   * En esta sección se muestran los restaurantes/tiendas favoritas del usuario para que así el usuario pueda acceder más fácilmente a los establecimientos que más le gustan. Los establecimientos mostrados en esta sección son los más buscados por el usuario. Cuando el usuario no ha hecho ninguna búsqueda ni compra, en esta seccion aparecen los establecimientos más populares.
+   - Establecimiento
+   * Se accede a esta sección al seleccionar un establecimiento, en esta se muestra la lista de productos que ofrece el establecimiento. Al seleccionar un producto, éste se agrega al Carrito de compras y el usuario puede seguir viendo la lista de productos.
+   - Carrito
+   * En esta seccion se muestran los productos que se agregaron al carrito de un establecimiento determinado. Aqui se puede modificar las cantidades de los productos seleccionados (añadir o eliminar) y se puede eliminar un producto por completo del carrito. Ademas en esta seccion se muestra el subtotal de todos los productos en el Carrito para que el usuario vea cuanto gastara. Ademas, tambien se muestra la direccion de entrega del pedido, al seleccionar esta direccion se puede modificar la misma.Al presionar el boton "Continuar", el usuario es llevado a la seccion "Checkout".
+   - Checkout
       
    ## 2.3 Usuarios y caracteristicas
    
