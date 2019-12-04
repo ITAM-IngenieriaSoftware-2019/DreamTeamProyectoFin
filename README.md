@@ -61,14 +61,14 @@
    ## 2.2 Funciones del producto
    Las funcionalidades principales del producto son las siguientes:
    - **Búsqueda**
-      * En esta sección hay una barra de texto en donde el alumno escribe el nombre del establecimiento o el tipo de productos que busca (desayunos, vegana, medicamentos) y al hacer la búsqueda, aparece una lista con los establecimientos.
-      * Otra forma de buscar, es por restaurantes o tiendas. Al apretar el botón _restaurantes_, aparecerá en la aplicación una lista de ellos ordenada por popularidad. Análogamente, aparecerán tiendas al apretar el botón _Otras tiendas_.
+    * En esta sección hay una barra de texto en donde el alumno escribe el nombre del establecimiento o el tipo de productos que busca (desayunos, vegana, medicamentos) y al hacer la búsqueda, aparece una lista con los establecimientos.
+    * Otra forma de buscar, es por restaurantes o tiendas. Al apretar el botón _restaurantes_, aparecerá en la aplicación una lista de ellos ordenada por popularidad. Análogamente, aparecerán tiendas al apretar el botón _Otras tiendas_.
       
    - **Favoritos*
     * En esta sección se muestran los restaurantes/tiendas favoritas del usuario para que así el usuario pueda acceder más fácilmente a los establecimientos que más le gustan y en donde más realiza pedidos. Cuando el usuario no ha hecho ninguna búsqueda ni compra, en esta seccion aparecen los establecimientos más populares.
    
    - **Establecimiento**
-      * Se accede a esta sección al seleccionar un establecimiento, en esta se muestra la lista de productos que ofrece dicho lugar. Al seleccionar un producto, éste se agrega al carrito de compras y el usuario puede seguir viendo la lista de productos.
+    * Se accede a esta sección al seleccionar un establecimiento, en esta se muestra la lista de productos que ofrece dicho lugar. Al seleccionar un producto, éste se agrega al carrito de compras y el usuario puede seguir viendo la lista de productos.
    
    - **Carrito*
     * En esta seccion se muestran los productos que se agregaron de un establecimiento determinado. Aqui se puede modificar las cantidades de los productos seleccionados (añadir o eliminar) y se puede eliminar un producto por completo del carrito. Ademas en esta seccion se muestra el subtotal de todos los productos para que el usuario vea el total de su pedido. También se muestra la direccion de entrega del pedido, la cual se puede modificar dentro de esa sección.Al presionar el boton "Continuar", el usuario es llevado a la seccion "Checkout".
