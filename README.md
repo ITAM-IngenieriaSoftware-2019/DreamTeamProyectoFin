@@ -204,20 +204,20 @@
     2. Si el pago sera con tarjeta, se debe garantizar que la tarjeta sea valida y que procedio el pago antes de confirmar el pedido.
     
 
-# 5. Requerimientos no funcionales
-   ## 5.1 Requerimientos de rendimiento
+## 5. Requerimientos no funcionales
+   ### 5.1 Requerimientos de rendimiento
 
    El sistema debe garantizar que el registro tome menos de 10 segundos y que el inicio de sesión tome menos de 5 segundos. El sistema también debe garantizar que los pedidos tomarán menos de 10 segundos en ser registrados y confirmados.
 
-   ## 5.2 Requerimientos de fiabilidad
+   ### 5.2 Requerimientos de fiabilidad
    
    Para seguridad de los alumnos, se deben tener filtros para garantizar que los repartidores y los usuarios sean solamente alumnos del ITAM. Además, la foto y nombre del repartidor debe ser visible para el usuario y viceversa.
    
-   ## 5.3 Requerimientos de seguridad
+   ### 5.3 Requerimientos de seguridad
    
    - El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Para así garantizar fiabilidad y rendimiento al usuario.
    - El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos, esto se puede hacer mediante la encriptación de los datos enviados y recibidos por el sistema.
   
-   ## 5.4 Atributos de calidad del software
+   ### 5.4 Atributos de calidad del software
 - El sistema debe garantizar tener pocos incidentes de alta prioridad, por ejemplo, teniendo un sistema alterno que sirva como DR (Disaster Recovery) en caso de algún problema.
 - El sistema debe garantizar ser resistente a un fuerte uso del sistema, por ejemplo, a la hora de la comida.
