@@ -72,3 +72,38 @@ Un 80% de casos con prioridad con máximo 10% de error.
 A. Al final la prueba se escuchará la opinión general del usuario, si en las pruebas no se detecta interés en el producto, el sistema será reformulado.
 B. Si la mayoría de las pruebas de prioridad no pasan el criterio de fallo
 C. Si hay errores críticos que impiden la realización de las pruebas
+# 11. Test deliverables
+No existen pruebas anteriores
+# 12. Remaining test tasks
+Dependiendo del resultado de las pruebas, el sistema cambiará por completo, o se lanzará una versión 2 para pruebas, lo segundo si hay validación, en esta segunda versión se arreglarían los features de prioridad con fallas y se cambiarían los features acopándose a las necesidades del usuario. Esta segunda versión sería también más amigable al usuario.
+# 13. Enviromental Needs
+A. Internet
+B. Teléfono celular android actualizado
+# 14. Staffing and training needs
+A. Los encargados de la realización de pruebas deben ser entrenados para la realización y análisis de pruebas
+# 15. Responsabilidades
+Criterios de aceptación y ejecución: team manager y equipo de testeo y usuario
+Revisión del diseño del sistema: team manager, equipo de desarrollo y equipo de testeo 
+Control de cambios: team manager, equipo de desarrollo y equipo de testeo y usuario
+Procedimiento de testeo y reglas: team manager, equipo de desarrollo y equipo de testeo
+Prueba de sistema/Integración: team manager,equipo de desarrollo y equipo de testeo
+# 16. Horario
+Validación del producto
+Asignación de prioridades de las pruebas
+Desarrollo del plan maestro de pruebas
+Ejecución de pruebas
+Replanteo de la versión 2 del producto
+Análisis de pruebas
+Asignación de nuevos features
+# 17. Riesgos de planeación y contingencias
+A. Falta de personal en la realización de las pruebas o en la programación del sistema para realizar los cambios
+B. Falta de disponibilidad de equipo de hardware
+C. Falta de inversión monetaria requerida para expandir el proyecto
+D. Retrasos en la capacitación del equipo y posteriormente de personal
+# 18. Approvals
+Todos los integrantes del equipo
+# 19. Glosario
+-Mercado: formado por todos los consumidores o compradores potenciales de un producto
+-Usuario: Individuo que utiliza o consume un determinado producto o servicio
+-Team manager: director del equipo
+-Validación: Validar una idea de negocios o un modelo de negocios es comprobar que las hipótesis sobre las que basamos nuestra estrategia de negocios son ciertas y que nuestra empresa es viable.
