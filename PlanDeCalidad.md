@@ -106,4 +106,4 @@ Todos los integrantes del equipo
 -Mercado: formado por todos los consumidores o compradores potenciales de un producto
 -Usuario: Individuo que utiliza o consume un determinado producto o servicio
 -Team manager: director del equipo
-
+-Validación: Validar una idea de negocios o un modelo de negocios es comprobar que las hipótesis sobre las que basamos nuestra estrategia de negocios son ciertas y que nuestra empresa es viable.
