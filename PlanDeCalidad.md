@@ -106,3 +106,4 @@ Todos los integrantes del equipo
 -Mercado: formado por todos los consumidores o compradores potenciales de un producto
 -Usuario: Individuo que utiliza o consume un determinado producto o servicio
 -Team manager: director del equipo
+
